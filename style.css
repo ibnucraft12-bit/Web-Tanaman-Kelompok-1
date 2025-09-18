@@ -1,0 +1,103 @@
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(255, 251, 0);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.button1 {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(255, 6, 6);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.button2 {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(255, 6, 143);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.button3 {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(122, 68, 23);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.button4 {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(46, 204, 31);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.button5 {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(94, 255, 94);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.button6 {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(11, 230, 47);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.button7 {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(226, 100, 42);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+div {
+    padding: 10px;
+}
+
+html {
+    background-color: azure;
+}
